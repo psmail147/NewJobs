@@ -1,0 +1,7 @@
+"https://uk.indeed.com/jobs?q=remote&l=&fromage=1&from=searchOnDesktopSerp&vjk=27d9e2d29f6e315f"
+"C:\Users\Phil\AppData\Local\Google\Chrome\User Data"
+"Default"
+"C:\Program Files\Google\Chrome\Application\chromedriver.exe"
+"https://uk.indeed.com"
+"mosaic mosaic-provider-jobcards mosaic-provider-hydrated"
+"css-1ac2h1w eu4oa1w0"
